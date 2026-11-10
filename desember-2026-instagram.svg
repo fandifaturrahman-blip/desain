@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Promo servis dan tebus murah Desember 2026</title>
+  <desc id="desc">Poster Instagram STEPAT Digital Motoshop. Servis CVT dan throttle body mulai 100 ribu rupiah, pilihan tebus murah mulai 65 ribu rupiah, bonus Engine Clean 50 ml untuk motor tahun 2020 ke atas. Periode 1 sampai 31 Desember 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fbfc"/><stop offset="1" stop-color="#e8f1f3"/></linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff5738"/><stop offset="1" stop-color="#e52c18"/></linearGradient>
+    <linearGradient id="dark" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#20272b"/><stop offset="1" stop-color="#0c1114"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#152b33" flood-opacity=".12"/></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#d4e2e5"/></pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="1010" cy="92" r="220" fill="#e2f0f2"/><circle cx="65" cy="585" r="180" fill="url(#dots)" opacity=".55"/>
+  <path d="M0 0h1080v18H0z" fill="url(#red)"/>
+
+  <!-- Brand / seasonal header -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="64" y="52" width="46" height="46" rx="13" fill="url(#red)"/>
+    <path d="M77 82V66h8l5 8 5-8h8v16h-7v-7l-6 7-6-7v7z" fill="#fff"/>
+    <text x="124" y="73" font-size="23" font-weight="800" letter-spacing="1.3" fill="#172126">STEPAT</text>
+    <text x="124" y="94" font-size="12" font-weight="700" letter-spacing="2" fill="#748287">DIGITAL MOTOSHOP</text>
+    <rect x="770" y="53" width="246" height="44" rx="22" fill="#fff" stroke="#d7e3e5"/>
+    <circle cx="796" cy="75" r="7" fill="#20a99a"/><text x="814" y="82" font-size="16" font-weight="700" letter-spacing="1" fill="#273237">PROMO AKHIR TAHUN</text>
+
+    <text x="64" y="166" font-size="17" font-weight="800" letter-spacing="4" fill="#e9472d">DESEMBER 2026</text>
+    <text x="60" y="244" font-size="66" font-weight="900" letter-spacing="-2" fill="#101719">TUTUP TAHUN,</text>
+    <text x="60" y="316" font-size="66" font-weight="900" letter-spacing="-2" fill="#101719">MOTOR MAKIN <tspan fill="#ef4b2d">PRIMA.</tspan></text>
+    <text x="64" y="356" font-size="21" font-weight="500" fill="#56656a">Rawat kendaraanmu, nikmati promo spesial bulan ini.</text>
+  </g>
+
+  <!-- Service offer hero -->
+  <g filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="56" y="398" width="968" height="310" rx="30" fill="#fff"/>
+    <path d="M56 428q0-30 30-30h908q30 0 30 30v58H56z" fill="url(#dark)"/>
+    <rect x="82" y="420" width="10" height="42" rx="5" fill="#ff5536"/>
+    <text x="112" y="453" font-size="22" font-weight="800" letter-spacing="2" fill="#fff">PAKET SERVIS SPESIAL</text>
+    <rect x="817" y="416" width="174" height="38" rx="19" fill="#ffffff" opacity=".13"/>
+    <text x="904" y="441" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1" fill="#fff">HEMAT BULAN INI</text>
+    <text x="88" y="548" font-size="55" font-weight="900" letter-spacing="-1.5" fill="#11191c">SERVIS <tspan fill="#ef4b2d">CVT + TB</tspan></text>
+    <text x="91" y="582" font-size="18" font-weight="800" letter-spacing="2.5" fill="#536166">THROTTLE BODY DIBONGKAR</text>
+    <circle cx="99" cy="614" r="4" fill="#ef4b2d"/><text x="113" y="621" font-size="17" font-weight="700" letter-spacing="1.4" fill="#273237">NITROGEN</text>
+    <circle cx="99" cy="645" r="4" fill="#ef4b2d"/><text x="113" y="652" font-size="17" font-weight="700" letter-spacing="1.4" fill="#273237">+ 20 POIN CEK</text>
+    <text x="602" y="543" font-size="25" font-weight="700" fill="#a2abad">170 RB</text>
+    <path d="M595 529l127 2" stroke="#ef4b2d" stroke-width="4" stroke-linecap="round"/>
+    <rect x="744" y="502" width="233" height="143" rx="22" fill="#fff2ed"/>
+    <text x="765" y="533" font-size="14" font-weight="800" letter-spacing="2" fill="#d7472d">SEKARANG</text>
+    <text x="759" y="610" font-size="91" font-weight="900" letter-spacing="-6" fill="#101719">100</text>
+    <text x="917" y="610" font-size="28" font-weight="900" fill="#101719">RB*</text>
+    <text x="765" y="633" font-size="13" font-weight="700" fill="#748287">*S&amp;K BERLAKU</text>
+  </g>
+
+  <!-- Value deals -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="763" font-size="16" font-weight="800" letter-spacing="3" fill="#e9472d">PILIHAN TEBUS MURAH</text>
+    <text x="64" y="801" font-size="31" font-weight="900" letter-spacing="-.5" fill="#152024">Tambah hemat, sekalian siap jalan.</text>
+
+    <!-- Deal 1 -->
+    <g filter="url(#shadow)"><rect x="56" y="831" width="302" height="284" rx="24" fill="#fff"/>
+      <rect x="78" y="853" width="116" height="29" rx="14" fill="#e9f5f3"/><text x="136" y="873" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="1" fill="#138f83">TEBUS MURAH</text>
+      <text x="78" y="949" font-size="53" font-weight="900" letter-spacing="-2" fill="#11191c">+65</text><text x="186" y="949" font-size="19" font-weight="900" fill="#11191c">RB*</text>
+      <text x="80" y="978" font-size="15" font-weight="700" fill="#647277">Oli mesin</text><text x="80" y="1002" font-size="15" font-weight="700" fill="#647277">0,6–0,8 L</text>
+      <!-- generic oil bottle -->
+      <path d="M244 900h42v12h8v18l12 15v91q0 12-12 12h-64q-12 0-12-12v-91l12-15v-18h8v-12z" fill="#273c5a"/>
+      <rect x="251" y="887" width="29" height="15" rx="4" fill="#e9472d"/><path d="M224 944h70v48h-70z" fill="#ecf3f5"/><path d="M232 952h54v29h-54z" fill="#e9472d"/><text x="259" y="972" text-anchor="middle" font-size="10" font-weight="900" fill="#fff">MOTOR OIL</text>
+      <path d="M78 1040h258" stroke="#e9eeee" stroke-width="2"/><text x="78" y="1074" font-size="13" font-weight="700" fill="#758287">*Harga promo per paket</text>
+    </g>
+    <!-- Deal 2 -->
+    <g filter="url(#shadow)"><rect x="389" y="831" width="302" height="284" rx="24" fill="#fff"/>
+      <rect x="411" y="853" width="116" height="29" rx="14" fill="#e9f5f3"/><text x="469" y="873" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="1" fill="#138f83">TEBUS MURAH</text>
+      <text x="411" y="949" font-size="53" font-weight="900" letter-spacing="-2" fill="#11191c">+80</text><text x="519" y="949" font-size="19" font-weight="900" fill="#11191c">RB*</text>
+      <text x="413" y="978" font-size="15" font-weight="700" fill="#647277">Oli mesin</text><text x="413" y="1002" font-size="15" font-weight="700" fill="#647277">0,8–1 L</text>
+      <path d="M577 900h42v12h8v18l12 15v91q0 12-12 12h-64q-12 0-12-12v-91l12-15v-18h8v-12z" fill="#3c6597"/><rect x="584" y="887" width="29" height="15" rx="4" fill="#1c4b96"/><path d="M557 944h70v48h-70z" fill="#ecf3f5"/><path d="M565 952h54v29h-54z" fill="#e9472d"/><text x="592" y="972" text-anchor="middle" font-size="10" font-weight="900" fill="#fff">MOTOR OIL</text>
+      <path d="M411 1040h258" stroke="#e9eeee" stroke-width="2"/><text x="411" y="1074" font-size="13" font-weight="700" fill="#758287">*Harga promo per paket</text>
+    </g>
+    <!-- Deal 3 -->
+    <g filter="url(#shadow)"><rect x="722" y="831" width="302" height="284" rx="24" fill="#fff"/>
+      <rect x="744" y="853" width="116" height="29" rx="14" fill="#e9f5f3"/><text x="802" y="873" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="1" fill="#138f83">TEBUS MURAH</text>
+      <text x="744" y="949" font-size="53" font-weight="900" letter-spacing="-2" fill="#11191c">+99</text><text x="852" y="949" font-size="19" font-weight="900" fill="#11191c">RB*</text>
+      <text x="746" y="978" font-size="15" font-weight="700" fill="#647277">Oli mesin</text><text x="746" y="1002" font-size="15" font-weight="700" fill="#647277">0,8 / 1 L</text>
+      <path d="M910 900h42v12h8v18l12 15v91q0 12-12 12h-64q-12 0-12-12v-91l12-15v-18h8v-12z" fill="#202b32"/><rect x="917" y="887" width="29" height="15" rx="4" fill="#e9472d"/><path d="M890 944h70v48h-70z" fill="#ecf3f5"/><path d="M898 952h54v29h-54z" fill="#e9472d"/><text x="925" y="972" text-anchor="middle" font-size="10" font-weight="900" fill="#fff">MOTOR OIL</text>
+      <path d="M744 1040h258" stroke="#e9eeee" stroke-width="2"/><text x="744" y="1074" font-size="13" font-weight="700" fill="#758287">*Harga promo per paket</text>
+    </g>
+  </g>
+
+  <!-- Bonus and footer -->
+  <g font-family="Arial, Helvetica, sans-serif" filter="url(#shadow)">
+    <rect x="56" y="1144" width="968" height="112" rx="24" fill="url(#red)"/>
+    <circle cx="112" cy="1200" r="31" fill="#fff" opacity=".18"/><path d="M99 1200l9 9 18-21" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="163" y="1185" font-size="14" font-weight="800" letter-spacing="2" fill="#ffe4dc">BONUS UNTUKMU</text>
+    <text x="163" y="1222" font-size="31" font-weight="900" fill="#fff">GRATIS ENGINE CLEAN 50 ML</text>
+    <rect x="747" y="1172" width="244" height="57" rx="14" fill="#fff"/>
+    <text x="869" y="1195" text-anchor="middle" font-size="13" font-weight="800" letter-spacing="1" fill="#df4328">KHUSUS MOTOR</text>
+    <text x="869" y="1217" text-anchor="middle" font-size="19" font-weight="900" fill="#172126">TAHUN 2020 KE ATAS</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="1295" font-size="15" font-weight="800" letter-spacing="1.4" fill="#1b2529">PERIODE 1–31 DESEMBER 2026</text>
+    <text x="1016" y="1295" text-anchor="end" font-size="14" font-weight="700" fill="#748287">Syarat &amp; ketentuan berlaku • Selama persediaan ada</text>
+    <path d="M64 1315h952" stroke="#d5e0e2" stroke-width="2"/>
+    <text x="540" y="1340" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#8b999d">CEK PROMO &amp; KUNJUNGI STEPAT DIGITAL MOTOSHOP</text>
+  </g>
+</svg>
