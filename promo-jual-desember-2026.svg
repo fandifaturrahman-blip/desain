@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Promo awal Desember 2026 STEPAT</title>
+  <desc id="desc">Poster promosi jualan servis CVT + TB dengan produk oli premium Motul, Castrol, Repsol dan bonus engine clean 50 ml.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f6f7f8"/>
+      <stop offset="1" stop-color="#e8ecef"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff6d3b"/>
+      <stop offset="1" stop-color="#ef3b2a"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#171d20"/>
+      <stop offset="1" stop-color="#0d1215"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1a2428" flood-opacity="0.12"/>
+    </filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#1c2b30" flood-opacity="0.07"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1080" height="18" fill="url(#orange)"/>
+  <circle cx="1008" cy="83" r="230" fill="#edf4f6" opacity="0.6"/>
+  <circle cx="90" cy="1230" r="160" fill="#eef3f5" opacity="0.7"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="52" y="44" width="54" height="54" rx="14" fill="url(#orange)"/>
+    <path d="M70 85V63h8l6 9 6-9h8v22h-7V72l-7 9-7-9v13z" fill="#fff"/>
+    <text x="121" y="71" font-size="25" font-weight="900" letter-spacing="1" fill="#171e21">STEPAT</text>
+    <text x="121" y="96" font-size="11" font-weight="800" letter-spacing="2.1" fill="#6f7d82">DIGITAL MOTOSHOP</text>
+
+    <rect x="798" y="52" width="226" height="42" rx="20" fill="#fff" stroke="#dfe7ea"/>
+    <circle cx="823" cy="73" r="6" fill="#24a798"/>
+    <text x="842" y="80" font-size="13" font-weight="800" letter-spacing="1.2" fill="#212d31">PROMO AWAL BULAN</text>
+
+    <rect x="54" y="115" width="350" height="56" rx="15" fill="#111719"/>
+    <text x="80" y="154" font-size="17" font-weight="800" letter-spacing="2.8" fill="#fff">SPECIAL 1–10 DESEMBER</text>
+
+    <text x="56" y="270" font-size="66" font-weight="900" letter-spacing="-2.5" fill="#111719">SERVIS</text>
+    <text x="348" y="270" font-size="66" font-weight="900" letter-spacing="-2.5" fill="#ef4d2d">CVT + TB</text>
+    <text x="58" y="332" font-size="25" font-weight="900" letter-spacing="0.5" fill="#111719">THROTTLE BODY DIBONGKAR</text>
+    <text x="58" y="370" font-size="26" font-weight="900" letter-spacing="0.5" fill="#111719">+ NITROGEN</text>
+    <text x="58" y="408" font-size="26" font-weight="900" letter-spacing="0.5" fill="#111719">+ 20 POIN CEK</text>
+
+    <g transform="translate(720 130)">
+      <rect x="0" y="0" width="220" height="220" rx="18" fill="#fff" filter="url(#soft)"/>
+      <rect x="20" y="26" width="180" height="146" rx="16" fill="#f4f7f8"/>
+      <circle cx="110" cy="60" r="38" fill="#f4f7f8" stroke="#dfe9ed" stroke-width="3"/>
+      <path d="M110 26A54 54 0 0 1 162 80" fill="none" stroke="#ef5d36" stroke-width="6" stroke-linecap="round"/>
+      <path d="M110 26A54 54 0 0 0 58 80" fill="none" stroke="#1d2d35" stroke-width="6" stroke-linecap="round"/>
+      <path d="M77 92l33 33 56-60" fill="none" stroke="#ef5d36" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="110" y="192" text-anchor="middle" font-size="15" font-weight="800" fill="#111719">PROMO AKTIF</text>
+    </g>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="474" font-size="20" font-weight="800" fill="#a0a9af">SEBELUM</text>
+    <text x="278" y="474" font-size="20" font-weight="800" fill="#e6492d">SETELAH</text>
+    <text x="76" y="510" font-size="84" font-weight="900" fill="#111719" text-decoration="line-through" text-decoration-thickness="8" text-decoration-color="#ef4d2d">170</text>
+    <text x="82" y="510" font-size="40" font-weight="900" fill="#111719" transform="translate(170 0)">RB</text>
+    <text x="522" y="510" font-size="200" font-weight="900" fill="#111719" letter-spacing="-7">100</text>
+    <text x="833" y="510" font-size="57" font-weight="900" fill="#111719">RB*</text>
+    <text x="300" y="536" font-size="18" font-weight="700" fill="#5f6f74">*S&amp;K BERLAKU</text>
+  </g>
+
+  <g filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="58" y="620" width="964" height="386" rx="30" fill="#ffffff"/>
+    <rect x="84" y="650" width="250" height="44" rx="22" fill="#111719"/>
+    <text x="209" y="680" text-anchor="middle" font-size="25" font-weight="900" fill="#ffffff">TEBUS MURAH</text>
+    <rect x="342" y="650" width="210" height="44" rx="22" fill="#e9ecee"/>
+    <text x="447" y="681" text-anchor="middle" font-size="22" font-weight="800" fill="#111719">MULAI DARI</text>
+
+    <g transform="translate(90 704)">
+      <text x="0" y="140" font-size="125" font-weight="900" letter-spacing="-7" fill="#111719">+65</text>
+      <text x="235" y="140" font-size="42" font-weight="900" fill="#111719">RB*</text>
+      <text x="0" y="180" font-size="25" font-weight="700" fill="#657075">Oli Mesin • 0,6 – 0,8 L</text>
+    </g>
+
+    <g transform="translate(505 719)">
+      <g transform="translate(0 0)">
+        <rect x="0" y="0" width="105" height="170" rx="10" fill="#dfe5e8"/>
+        <rect x="41" y="-18" width="22" height="24" rx="5" fill="#0e4ca7"/>
+        <path d="M20 40h64v88a15 15 0 0 1-15 15H35a15 15 0 0 1-15-15V40z" fill="#edf4f8"/>
+        <path d="M24 55h56v48H24z" fill="#e74d3a"/>
+        <text x="52" y="87" text-anchor="middle" font-size="11" font-weight="900" fill="#fff">MOTOR</text>
+      </g>
+      <g transform="translate(103 0)">
+        <rect x="0" y="0" width="105" height="170" rx="10" fill="#dfe5e8"/>
+        <rect x="41" y="-18" width="22" height="24" rx="5" fill="#e3382a"/>
+        <path d="M20 40h64v88a15 15 0 0 1-15 15H35a15 15 0 0 1-15-15V40z" fill="#edf4f8"/>
+        <path d="M24 55h56v48H24z" fill="#1d7c86"/>
+        <text x="52" y="87" text-anchor="middle" font-size="11" font-weight="900" fill="#fff">MOTOR</text>
+      </g>
+      <g transform="translate(206 0)">
+        <rect x="0" y="0" width="105" height="170" rx="10" fill="#dfe5e8"/>
+        <rect x="41" y="-18" width="22" height="24" rx="5" fill="#0054b7"/>
+        <path d="M20 40h64v88a15 15 0 0 1-15 15H35a15 15 0 0 1-15-15V40z" fill="#edf4f8"/>
+        <path d="M24 55h56v48H24z" fill="#e9472d"/>
+        <text x="52" y="87" text-anchor="middle" font-size="11" font-weight="900" fill="#fff">MOTOR</text>
+      </g>
+      <g transform="translate(309 0)">
+        <rect x="0" y="0" width="105" height="170" rx="10" fill="#dfe5e8"/>
+        <rect x="41" y="-18" width="22" height="24" rx="5" fill="#cd3726"/>
+        <path d="M20 40h64v88a15 15 0 0 1-15 15H35a15 15 0 0 1-15-15V40z" fill="#edf4f8"/>
+        <path d="M24 55h56v48H24z" fill="#da3d2a"/>
+        <text x="52" y="87" text-anchor="middle" font-size="11" font-weight="900" fill="#fff">MOTOR</text>
+      </g>
+    </g>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" filter="url(#shadow)">
+    <rect x="58" y="1010" width="964" height="190" rx="28" fill="#ffffff"/>
+    <rect x="92" y="1052" width="310" height="96" rx="14" fill="#ff2b2b"/>
+    <text x="247" y="1100" text-anchor="middle" font-size="47" font-weight="900" fill="#fff">GRATIS</text>
+    <text x="247" y="1128" text-anchor="middle" font-size="18" font-weight="800" letter-spacing="1.2" fill="#fff">ENGINE CLEAN</text>
+
+    <g transform="translate(460 1030)">
+      <rect x="0" y="0" width="90" height="150" rx="12" fill="#dfe3e7"/>
+      <rect x="36" y="-18" width="18" height="28" rx="5" fill="#e94b39"/>
+      <path d="M18 42h54v75a12 12 0 0 1-12 12H30a12 12 0 0 1-12-12V42z" fill="#f4f7f8"/>
+      <rect x="18" y="55" width="54" height="27" rx="3" fill="#e9472d"/>
+      <text x="45" y="74" text-anchor="middle" font-size="8" font-weight="900" fill="#fff">ENGINE</text>
+    </g>
+
+    <text x="613" y="1096" font-size="60" font-weight="900" fill="#111719">50 ML</text>
+    <rect x="705" y="1058" width="230" height="48" rx="12" fill="#ff2e2e"/>
+    <text x="820" y="1091" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">MOTOR ≥ 2020</text>
+    <rect x="745" y="1118" width="150" height="10" rx="5" fill="#f7f7f7" opacity="0.4"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="84" y="1220" width="912" height="70" rx="16" fill="#fff"/>
+    <text x="123" y="1264" font-size="26" font-weight="900" fill="#111719">PERIODE : 1–10 DESEMBER 2026</text>
+    <rect x="670" y="1238" width="10" height="31" fill="#111719"/>
+    <text x="705" y="1263" font-size="22" font-weight="800" fill="#111719">*S&amp;K BERLAKU</text>
+  </g>
+</svg>
